@@ -75,8 +75,8 @@ I am also a Graphic Designer, I make something based on my idea and share it wit
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-&nbsp;&nbsp;&nbsp;[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=light)](https://github.com/Aryagm/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=light)](https://github.com/Aryagm/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=light)](https://github.com/Aryagm/github-readme-stats)
 
  
