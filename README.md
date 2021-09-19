@@ -1,8 +1,5 @@
-### My name is Wahyu Kurnia Rahman 
-
-Skills: JS / HTML / CSS / REACTJS / REACT NATIVE / 
-
-- 🔭 I’m currently working on this page. 
+### Coornea Profile 
+ 
 <audio autoplay loop controls id="playAudio">
   <source src="./gitHubAssets/backsound.mp3" type="audio/mpeg">
 </audio>
@@ -27,7 +24,7 @@ I am also a Graphic Designer, I make something based on my idea and share it wit
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/why-kr" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:coornea@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Coornea" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/why-kr" target="blank"><img align="center" src="https://img.shields.io/badge/Wahyu Kurnia Rahman-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:coornea@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/coornea@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Coornea" target="blank"><img align="center" src="https://img.shields.io/badge/Coornea -100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -36,9 +33,6 @@ I am also a Graphic Designer, I make something based on my idea and share it wit
 <h1 align="center">Skills I have! 🤸‍♂</h1>
 <Br>
   
-|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
   
   
 <Br>
@@ -47,10 +41,7 @@ I am also a Graphic Designer, I make something based on my idea and share it wit
 <h1>Tools I use! 🛠️</h1>
 <Br>
  
-|![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)|![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
-  
+
 
 <Br>
 <hr>
@@ -61,6 +52,12 @@ I am also a Graphic Designer, I make something based on my idea and share it wit
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Coornea/Coornea)
 
 <Br>
+<Br>
+  
+<p align="center">
+  <a href="https://www.linkedin.com/in/why-kr" target="blank"><img align="center" src="https://img.shields.io/badge/Check My Portofolio >-0077B5?style=for-the-badge&logo=react&logoColor=white" /></a>
+</p>
+
 <hr>
 <Br>
 <h1>Certifications! 🏆</h1>
@@ -78,13 +75,15 @@ I am also a Graphic Designer, I make something based on my idea and share it wit
 <h1>GitHub Stats! 📊</h1>
 <Br>
   
-[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=merko)](https://github.com/Aryagm/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=merko)](https://github.com/Aryagm/github-readme-stats)
+&nbsp;&nbsp;&nbsp;[![Arya's github stats](https://github-readme-stats.vercel.app/api?username=Aryagm&show_icons=true&theme=light)](https://github.com/Aryagm/github-readme-stats)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryagm&layout=compact&theme=light)](https://github.com/Aryagm/github-readme-stats)
 
  
 <Br>
 <hr>
 <Br>
-<h1>Thanks for Visiting, Have a Nice Day!</h1>
+<h1 align="center">Thanks for Visiting, Have a Nice Day!</h1>
 <Br>
   
   
