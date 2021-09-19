@@ -1,5 +1,5 @@
 ### My name is Wahyu Kurnia Rahman 
-<audio autoplay loop controls id="playAudio">
+<audio>
   <source src="https://youtu.be/xCatIOFua2E" type="audio/mpeg">
 </audio>
 #### I am Fullstack Developer
