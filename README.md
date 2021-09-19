@@ -1,39 +1,33 @@
 ### My name is Wahyu Kurnia Rahman 
-<audio autoplay loop controls id="playAudio">
-  <source src="https://youtu.be/xCatIOFua2E" type="audio/mpeg">
-</audio>
-#### I am Fullstack Developer
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I started learning to code in 2020. I'm interested in learning by doing somethings, so I joined the Fullstack Javascript Bootcamp at DumbWays.Id. I am Fresh Graduate, I want to start my career here and I'll do something useful for many people.
-I am also a Graphic Designer, I make something based on my idea and share it with anyone to share what I feel and share my happiness with them.
 
 Skills: JS / HTML / CSS / REACTJS / REACT NATIVE / 
 
 - 🔭 I’m currently working on this page. 
+<audio autoplay loop controls id="playAudio">
+  <source src="./gitHubAssets/backsound.mp3" type="audio/mpeg">
+</audio>
 
 <p align="center">
   <img src="./gitHubAssets/hello-world.png" height="230"/>
 </p>
 <hr>
-<h1 align="center">I'm <a href="https://github.com/Aryagm">Arya Manjaramkar<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">I'm <a href="https://github.com/Coornea">Wahyu Kurnia Rahman<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+#### I am Fullstack Developer
+
+I started learning to code in 2020. I'm interested in learning by doing somethings, so I joined the Fullstack Javascript Bootcamp at DumbWays.Id. I am Fresh Graduate, I want to start my career here and I'll do something useful for many people.
+I am also a Graphic Designer, I make something based on my idea and share it with anyone to share what I feel and share my happiness with them.
+
+- ⚡  Fun fact: I like Bicycle, Cooking and the Music! 🎹
   
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/why-kr" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:coornea@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Coornea" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>
@@ -64,7 +58,7 @@ Skills: JS / HTML / CSS / REACTJS / REACT NATIVE /
 <h1>Some of my Projects! 🎨</h1>
 <Br>
   
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Aryagm/California_Housing_Prices)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aryagm&repo=California_Housing_Prices)](https://github.com/Coornea/Coornea)
 
 <Br>
 <hr>
@@ -90,7 +84,7 @@ Skills: JS / HTML / CSS / REACTJS / REACT NATIVE /
 <Br>
 <hr>
 <Br>
-<h1>A Little Joke at the End! 🤣</h1>
+<h1>Thanks for Visiting, Have a Nice Day!</h1>
 <Br>
   
 <img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
@@ -99,14 +93,11 @@ Skills: JS / HTML / CSS / REACTJS / REACT NATIVE /
   
 <Br>
 <hr>
-<Br>
-<h1>Thank You! 🤵 </h1>
-<Br>
 
 ------
   
-Credit: [Aryagm](https://github.com/Aryagm)
-Last Edited on: 22/06/2021
+Credit: [Coornea](https://github.com/Coornea)
+Last Edited on: 19/09/2021
 
 
 
