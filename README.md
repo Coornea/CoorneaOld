@@ -1,16 +1,17 @@
-### Hi there 👋
+### My name is Wahyu Kurnia Rahman 
+<audio autoplay="" controls="">
+  <source srcset="https://youtu.be/xCatIOFua2E" type="audio/mpeg">
+</audio>
+#### I am Fullstack Developer
+![I am Fullstack Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Coornea/Coornea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started learning to code in 2020. I'm interested in learning by doing somethings, so I joined the Fullstack Javascript Bootcamp at DumbWays.Id. I am Fresh Graduate, I want to start my career here and I'll do something useful for many people.
+I am also a Graphic Designer, I make something based on my idea and share it with anyone to share what I feel and share my happiness with them.
 
-Here are some ideas to get you started:
+Skills: JS / HTML / CSS / REACTJS / REACT NATIVE / 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
