@@ -87,7 +87,6 @@ I am also a Graphic Designer, I make something based on my idea and share it wit
 <h1>Thanks for Visiting, Have a Nice Day!</h1>
 <Br>
   
-<img src="https://ih1.redbubble.net/image.471887531.0381/raf,750x1000,075,t,000000:44f0b734a5.u4.jpg"/>
   
   
   
